@@ -4,7 +4,7 @@
 
 1.![](/Naruto.jpg 'Naruto')
 2.
-![](https://ss3.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/5366d0160924ab18a9f942873efae6cd7a890b96.jpg)
+![](https://gitee.com/huwenqiang/image201908/raw/master/201909/19090229.jpg)
 
 birthday|age|race|ability
 :-:|:-:|:-:|:-:
