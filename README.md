@@ -8,7 +8,7 @@
 
 birthday|age|race|ability
 :-:|:-:|:-:|:-:
-Standing November 1st |10|	Goblin|Space System-Domain<br>Space System-Teleportation
+October 10th |10|	Goblin|Space System-Domain<br>Space System-Teleportation
 ---
 
 ~~The small black tail can split many times, usually into 4 black hoops. Similar to Xiao Hei, a separate conscious body that can think on its own.~~
