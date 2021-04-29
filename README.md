@@ -19,5 +19,5 @@ October 10th |17|	Muye Village in The Fire Nation
 </div>
 
 ```
-* [**more**](/qiuhaotiandebaba)
+* [**more**](/qiuhaotiandebaba.md)
 * <a href="https://baike.baidu.com/item/%E6%BC%A9%E6%B6%A1%E9%B8%A3%E4%BA%BA/322717?fr=aladdin" target="_blank">Baidu<
