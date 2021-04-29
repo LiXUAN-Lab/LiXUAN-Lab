@@ -7,7 +7,7 @@
 ![](https://gitee.com/huwenqiang/image201908/raw/master/201909/19090229.jpg)
 
 birthday|age|race
-:-:|:-:|:-:|:-:
+:-:|:-:|:-:
 October 10th |17|	Muye Village in The Fire Nation
 ---
 
