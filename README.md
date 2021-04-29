@@ -6,9 +6,9 @@
 2.
 ![](https://gitee.com/huwenqiang/image201908/raw/master/201909/19090229.jpg)
 
-birthday|age|race|ability
+birthday|age|race
 :-:|:-:|:-:|:-:
-October 10th |10|	Goblin|Space System-Domain<br>Space System-Teleportation
+October 10th |17|	Muye Village in The Fire Nation
 ---
 
 ~~The small black tail can split many times, usually into 4 black hoops. Similar to Xiao Hei, a separate conscious body that can think on its own.~~
